@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8b2b4519afbf40a19ab9da8b849d3bef',
+  rootNotionPageId: 'efa29861d5004ff59504b7de6b403cf2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Yizhen Zhang Personal Page',
-  domain: 'https://mercurial-broccoli-1ce.notion.site/Notion-8b2b4519afbf40a19ab9da8b849d3bef?pvs=4',
+  domain: 'https://mercurial-broccoli-1ce.notion.site/Yizhen-Zhang-efa29861d5004ff59504b7de6b403cf2',
   author: 'Yizhen Zhang',
 
   // open graph metadata (optional)
