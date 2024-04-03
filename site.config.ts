@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'ef4dfb26413f438ca5f4210cb9d976a6',
+  rootNotionPageId: '8d92c074472e44c8b388dd0cde5a1ed8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'Publications',
-      pageId: '5db1059964394f98aff13471e53667f1'
+      pageId: 'f9c64d29aa2245fa891d7b112cf9b416'
     },
     {
       title: 'News',
-      pageId: '580742c9545842d098be75d6fbd5da05'
+      pageId: '10ad4aedfb0147609d2477d5f34bcaa2'
     }
   ]
 })
